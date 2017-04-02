@@ -1,24 +1,8 @@
-# README
+# Atrix Task-Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Backend para integração ao atrix, para gestor de tarefas
 
-* Ruby version
 
-* System dependencies
+2017, Antonio Ricardo
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
